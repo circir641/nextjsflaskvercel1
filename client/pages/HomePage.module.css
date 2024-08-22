@@ -1,0 +1,9 @@
+/* HomePage.module.css */
+.container {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+    transition: background-color 2s ease-in-out;
+  }
+  

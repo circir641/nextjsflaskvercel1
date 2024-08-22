@@ -1,0 +1,6 @@
+pyJWT
+bcrypt
+pytest
+Flask-JWT-Extended
+flask-cors
+flask
